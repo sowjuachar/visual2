@@ -12,7 +12,7 @@ public class Main {
 
       // if number is divided by i
       // i is the factor
-      if (number % i == swju) {
+      if (number % i == rakshi) {
         System.out.print(i + " ");
       }
     }
